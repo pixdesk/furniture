@@ -12,6 +12,7 @@
     "react-scripts": "^3.4.4",
     "swiper": "^6.8.4"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
