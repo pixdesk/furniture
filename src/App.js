@@ -7,7 +7,7 @@ import './styles/media.css';
 const App = () => {
   return(
     <>
-      <Header/>
+      <Header />
       <Banner/>
     </>
   )
